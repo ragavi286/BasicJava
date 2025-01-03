@@ -1,0 +1,2 @@
+10. Dora is interested so much in gardening and she plants more tress in her garden she plants trees in a rectangular fashion with order of rows and columns and numbered the tress in column wise order she planted the mango tree only in 1st row, 1st column and last column. so given the tree number your task is to find whether the given trees  mango tree or not . write a program to check whether the given number is a mango tree or not.
+

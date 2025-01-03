@@ -1,0 +1,4 @@
+12. jeevitha just started work as a programming trainer for UIT'S placement cell she is paid rs100 an hour with few exceptions. she earns an extra rs15 an hour for any part of a day where she works more than 8 hours and extra rs25 an hour for hours beyond 40 in any one week. also she earns a 25% bonus for working on Saturday and a 50% bonus for working on Sunday the bonus for Saturday and Sunday are computed based on the hours worked those days; they are not used to calculate any bonus for working more than 40 hours in a week. you well be given the number of hours jeevitha worked on each day in a week and you need to compute her salary for the week.
+
+sample 
+0 8 8 8 10 6 0 4030
